@@ -2,3 +2,5 @@ numpy
 xarray
 matplotlib
 wget
+imageio
+netcdf4
